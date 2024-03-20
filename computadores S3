@@ -1,0 +1,14 @@
+A Lei Geral de Proteção de Dados (LGPD) obriga as organizações a serem mais responsáveis com o gerenciamento das informações armazenadas.
+Esse aspecto mostra a necessidade de um cuidado especial com a administração do Data Center.
+
+Um formato aberto é livre de restrições legais para o seu uso domínio público usada para a descrição e armazenamento de dados digitais. 
+O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às 
+especificações técnicas: em outras palavras, garantir a interoperabilidade. EX: LaTeX (uma linguagem de documentação)
+Json (uma linguagem de documentação)
+
+Já os  formatos proprietários são, na verdade, controlados e definidos por interesses privados. jà que nenhum outro software pode processar as
+informações neles contida, o usuário corre o risco de perder todas as informações arquivadas caso o software pare de funcionar ou fosse descontinuado.
+EX: DOC - Microsoft Word Document
+
+
+
