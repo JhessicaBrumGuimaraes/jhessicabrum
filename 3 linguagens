@@ -1,0 +1,14 @@
+O HTML é a base da programação (como se fosse o esqueleto o corpo)
+O CSS é o que dá estilo aos códigos (como se fosse a roupa que a pessoa utiliza)
+O Javascript é o que dá movimento e ação  (como se fosse o espírito do corpo)
+
+Blocos de código são grupos de instruções que podem ser usados onde instruções únicas são esperadas. 
+Use indentação para delimitar blocos de código (em vez das chaves usadas em Java). Todas as linhas em um bloco devem ser indentadas para a mesma posição.
+
+Python - Os blocos de códigos são definidos com : e pela indentação
+Java Script - Os blocos de códigos são definidos por {} 
+Java - Os blocos são definidos por {} e o final de um é sinalizado com . e ,
+
+Java cria aplicações executadas em uma máquina virtual ou em um browser, ao passo que o código JavaScript é executado apenas em um browser.
+O código Java precisa ser compilado, ao passo que os códigos JavaScript estão totalmente em texto. Eles requerem plug-ins diferentes
+
